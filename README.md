@@ -149,3 +149,5 @@ Once launched, open your web browser and navigate to:
 - **Similarity Threshold**: Located in [`utils.py`](file:///d:/Clg%20report/intovectorvalue/utils.py#L4) (`threshold=0.7`). Increase threshold (e.g., `0.85`) for stricter duplicate matching; decrease (e.g., `0.60`) for broader semantic grouping.
 - **K-Nearest Neighbors**: Located in [`utils.py`](file:///d:/Clg%20report/intovectorvalue/utils.py#L18) (`k=5`). Adjust neighbor depth per vector search.
 - **Embedding Batch Size**: Located in [`model.py`](file:///d:/Clg%20report/intovectorvalue/model.py#L7) (`batch_size=128`).
+
+<!-- Repository maintained by Kaifkhan1212 -->
