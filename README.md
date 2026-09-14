@@ -89,7 +89,7 @@ Ensure you have Python 3.10+ installed on your system.
 
 ### 2. Clone Repository & Navigate
 ```bash
-cd "d:/Clg report/intovectorvalue"
+cd "d:/Clg report/PolyVector"
 ```
 
 ### 3. Install Dependencies
